@@ -2,7 +2,6 @@
   "name": "mosaic",
   "repository": "https://github.com/tdooner/mosaic",
   "dependencies": {
-    "jquery": "^2.1.4",
     "jsx-loader": "^0.13.2",
     "moment": "^2.10.2",
     "mousetrap": "^1.5.2",
